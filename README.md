@@ -133,7 +133,7 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 ``bash
 
-git clone <your-repo-link>
+git clone https://github.com/1234pratham2k6k1234-glitch/PRODIGY_ML_01.git
 cd house-price-prediction
 
 ###Step 3: Install Dependencies
